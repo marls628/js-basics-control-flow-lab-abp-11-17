@@ -3,4 +3,3 @@
    if (distance <= 400) {
      return 'This one is on me!'
    }
-  
