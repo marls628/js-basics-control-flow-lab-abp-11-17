@@ -11,5 +11,10 @@
    }
  }
 function ternaryCheckCity(city) {
-  return (city === "NYC") ? "Ok, sounds good" : "No go."
+  if (city === "NYC") {
+    return 'Ok, sounds good'
+  } else {
+    return 'No go'
+  }
+  
 }
