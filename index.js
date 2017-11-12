@@ -1,5 +1,5 @@
 // Write your code in this file!
- function scuberGreetingForFeet(distance) {
+function scuberGreetingForFeet(distance) {
    if (distance <= 400) {
      return 'This one is on me!'
    }
@@ -10,7 +10,7 @@
      return 'No can do.'
    }
   }
-  function ternaryCheckCity(city) {
+function ternaryCheckCity(city) {
   if (city === "NYC") {
     return "Ok, sounds good."
   } else if {
