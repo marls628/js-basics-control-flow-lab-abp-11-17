@@ -15,5 +15,17 @@ function ternaryCheckCity(city) {
     return 'Ok, sounds good.'
   }  else {
     return 'No go.'
-  } 
+  }
+}
+
+function switchOnCharmFromTip(tip) {
+  if (tip === 'generous') {
+    return 'Thank you so much.'
+  }
+  if else (tip === 'not generous') {
+    return 'Thank you.'
+  } else {
+    return 'Bye.'
+  }
+  
 }
